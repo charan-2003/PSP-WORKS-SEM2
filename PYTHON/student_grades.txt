@@ -1,0 +1,10 @@
+students = [
+{"name":"charan","marks":[213]},
+{"name":"mitra","marks":[321]},
+{"name":"rahul","marks":[123]},
+{"name":"nithin","marks":[202]},
+{"name":"shreeya","marks":[316]},
+{"name":"sai","marks":[167]},
+{"name":"adithya","marks":[234]},
+{"name":"kaushik","marks":[300]}
+]

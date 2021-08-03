@@ -1,0 +1,188 @@
+Python 3.9.5 (tags/v3.9.5:0a7dcbd, May  3 2021, 17:27:52) [MSC v.1928 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problemsolvingandprogramming
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problemsolvingandprogramming
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+ solvin
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+Traceback (most recent call last):
+  File "C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py", line 26, in <module>
+    print("solving"in sunject)
+NameError: name 'sunject' is not defined
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+True
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+True
+False
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+True
+False
+
+prints 
+
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+True
+False
+
+prints 
+
+\nprints \n
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+True
+False
+
+prints 
+
+\nprints \n
+>>> 
+= RESTART: C:/Users/SRI BHARATHI CHARAN/Desktop/python files/python strings demo.py
+charan
+<class 'str'>
+bharathi charan
+<class 'str'>
+problem solving and programming 
+problem
+solving
+True
+False
+True
+False
+
+prints 
+
+\nprints \n
+\nprints \n
+maths1
+>>> 
